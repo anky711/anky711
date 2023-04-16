@@ -1,4 +1,4 @@
-![logo](https://github.com/anky711/anky711/blob/main/Untitled%20design.png)
+![logo]("https://github.com/anky711/anky711/blob/main/Untitled%20design.png" width = 500)
 <h1 align="center">Hi 👋, I'm Ankita Tiwari</h1>
 <h3 align="center">Budding Data Analyst from India</h3>
 <image align = "right" alt = "coding" width ="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Flimitlessdatascience.wordpress.com%2Fanalytics%2F&psig=AOvVaw1dF6A2gfjfBCC2L8HQQdeZ&ust=1681759967932000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDCxp2Sr_4CFQAAAAAdAAAAABAE"
